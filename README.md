@@ -11,7 +11,7 @@ They're crude with no custom grid system.
 
 Feel free to use and contribute. 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/sinhard/mini-css-library/blob/master/docs/img.png)
 
 
 
